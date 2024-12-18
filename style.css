@@ -1,0 +1,59 @@
+body {
+  background-color: #001300;
+  text-align: center;
+}
+  
+h1 {
+  color: white;
+  font-family: "DM Serif Text", serif;
+  font-style: normal;
+}
+
+h5 {
+  color: white;
+}
+  
+input {
+  padding: 5px;
+  font-size: 16px;
+}
+  
+button {
+  padding: 8px 12px;
+  background-color: #244212;
+  color: white;
+  border: none;
+  font-size: 16px;
+  font-family: "DM Serif Text", serif;
+  font-style: normal;
+  cursor: pointer;
+}
+  
+#mensaje {
+  color: white;
+  font-family: "DM Serif Text", serif;
+  font-size: 18px;
+  margin-top: 20px;
+}
+
+#intento {
+  color: white;
+  font-family:"DM Serif Text", serif;
+
+}
+
+.dm-serif-text-regular {
+  font-family: "DM Serif Text", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+p {
+  color: white;
+  font-family: "DM Serif Text", serif;
+  font-style: normal;
+}
+
+input {
+  background-color: #59833d;
+}
